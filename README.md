@@ -1,6 +1,6 @@
 # pdfmergesep
 * Application that lets you merge together multiple PDF files into one or separate individual page(s) from a PDF file.  
-* To run simply download executable file, and double click to run.  
+* To run simply download repo, run executable file in dist directory (Only tested on MacOS).
 * Developed with Python3 using tktinker and PyPDF2 libraries.
   
   
