@@ -4,5 +4,5 @@
 * To run simply download repo, run executable file in dist directory (Only tested on MacOS).
 * Developed with Python3 using tktinker and PyPDF2 libraries.
   
-# Contributor
+## Contributor
 * Jonathan Mai: @jmai321
